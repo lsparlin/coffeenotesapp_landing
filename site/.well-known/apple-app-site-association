@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "YLAB65HDF3.dev.lsparlin.coffeeNotes" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL to this subdomain"
+               }
+             ]
+           }
+       ]
+   }
+}
